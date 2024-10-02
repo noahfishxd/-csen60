@@ -1,0 +1,17 @@
+/* 
+Order of Precedence 
+1. inline styles
+2. internal styles
+3. external styles 
+
+!important to overide
+*/
+
+h2{
+    font-size: 100px;
+}
+
+p{
+    color:blueviolet;
+    background-color: tomato;
+}
